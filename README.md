@@ -1,9 +1,9 @@
-
+<h1 align="center"><b> SAMRUDDHA</b></h1>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl4bDVlaGFsZm43c3FoeDBhc2thamxpdTJjMXViODF5NzI0bnRjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fnuSiwXMTV3zmYDf6k/giphy.gif" width="500">
 </p>
 
-<h1 align="center"><b> SAMRUDDHA</b></h1>
+
 <h3 align="center"> </h3>
 
 ---
@@ -38,11 +38,11 @@
 <!-- Stats Section -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shehindas-spec&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehindas-spec&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Samruddhapm&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhapm&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shehindas-spec&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Samruddhapm&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><br>
 
 
 
