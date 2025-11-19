@@ -50,13 +50,10 @@
 
 <h2>🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://t.me/Shehindas">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:shehindas@gmail.com">
+  <a href="mailto:samruddhapm88@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/shehin-spec">
+  <a href="https://github.com/Samruddhapm">
     <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
